@@ -1,8 +1,8 @@
 //comparesion//
-var a=5
-var b=7
-console.log(a==b)
-console.log(a<-b)
-console.log(a<b)
-console.log(a>b)
-console.log(a<-b)
+var a=15
+var b=13
+console.log('logocal operator')
+console.log(a>0 &&b>0)
+console.log(a<0&&b<0)
+console.log(a<0||b<0)
+console.log(!a>0)
