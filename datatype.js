@@ -21,8 +21,8 @@ var undenifed
 console.log(undefined)
 //object
 var person={
-    name:kanii
-    age:19
+    name:"kanii"
+    age : 19
 }
 console.log(person.age)
 //array
