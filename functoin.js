@@ -1,5 +1,5 @@
-//non pramartic dt
-function greet(){
+//non pramartic functoin
+function greet() {
     console.log("hello,world")
 
 }
